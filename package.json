@@ -3,8 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --log 'info'",
-    "dev": "slidev --open",
+    "build": "slidev build",
+    "dev": "slidev --open --log 'info'",
     "export": "slidev export"
   },
   "dependencies": {
