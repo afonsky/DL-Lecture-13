@@ -1,6 +1,6 @@
 ---
 level: 2
-zoom: 0.8
+zoom: 0.9
 ---
 
 # Conclusions
