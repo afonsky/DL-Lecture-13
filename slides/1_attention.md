@@ -13,6 +13,18 @@
 </div>
 
 ---
+level: 2
+---
+
+<div>
+<center>
+  <figure>
+    <img src="/NIPS-2017-attention-is-all-you-need-Paper.pdf.png" style="width: 920px !important;">
+  </figure>
+</center>   
+</div>
+
+---
 title: Attention
 level: 1
 ---
